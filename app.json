@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Red de Apoyo",
+    "slug": "red-de-apoyo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F8F5F2"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "cl.reddeapoyo.app"
+    }
+  }
+}
